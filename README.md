@@ -1,5 +1,3 @@
-# athar-seerah
-منصة أَثَر التفاعلية للتعرّف على السيرة النبوية
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
